@@ -1,0 +1,12 @@
+Nom, Prenom, DATE DE NAISSANCE, Poids, Taille, Option bac, Moyenne, photo, sexe;
+HDAFA, Simohamed, 10 06 1986, 147, 1.94, Sciences expérimentales, 14.40, photos/hs_photo.jpeg., H;
+BEN HMIMOU, Ahlam, 14 10 2001, 44.5, 1.55, Sciences physiques, 14.51, photos/ab_photo.jpeg., F;
+TALIB, Mehdi, 09 06 2001, 52, 1.80, Sciences physiques, 15.81, photos/mt_photo.jpeg., H;
+BENDADANI, Aymen, 10 01 2001, 100, 1.75, Sciences physiques, 16.29, photos/bay_photo.jpeg , H;
+BOUZID, Yassine, 01 06 2001, 90, 1.86, Sciences physiques, 12.8, photos/yb_photo.jpeg., H;
+JADID, Harith, 25 02 2002, 75, 1.74, Sciences mathématiques, 14.77, photos/jh_photo.jpeg., H;
+CHAATITI, Youssef, 01 08 2001, 65, 1.77, Sciences physiques, 15.18, photos/yc_photo.jpeg., H;
+ZARIK, Yassine, 30 09 2001, 58, 1.80, Sciences mathématiques, 14.5, photos/Yz_photo.jpeg., H;
+SOUBA, Anwar, 20 05 2001, 71, 1.97, Sciences de vie et de terre, 14.00, photos/as_photo.jpeg., H;
+NABILI, Oussama, 14 05 2001, 62, 1.84, Sciences mathématiques, 14.40, photos/ON_photo.jpeg., H;
+AIT BOUZIANE, Salma, 07 12 2001, 58, 1.65, Sciences physiques, 15.50, photos/bs_photo.jpeg., F;
